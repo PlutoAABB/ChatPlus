@@ -1,6 +1,6 @@
 # ChatGPT Plus
 - 说明:ChatGPT Plus 当前OpenAi官方定价策略是20美元,对于国内单个用户定价还是偏高,单人承受有点肉疼。此处是提供ChatGPT Plus拼车的一个相对安全的解决方案。
-我建了一个telegram公开群组(https://t.me/+x6xosztRIkwyM2Zl) ,给有chatgpt plus需求的用户提供一个交流场所。此外可以联系邮箱: ferryboatseranade@gmail.com
+我建了一个telegram公开群组(https://t.me/chatgpt_plus_carpool) ,给有chatgpt plus需求的用户提供一个交流场所。此外可以联系邮箱: ferryboatseranade@gmail.com
 
 - 建群初衷: 之前我组了一波车,发现陆续有不少同学都有同样的拼车需求,而且我自己也担心说拼的车一个月到期后有成员想要下车,临时再找人凑满车也比较耽误时间。组建一个群，有同样需求的人下次再发车也可以快速凑齐人数。
 
