@@ -87,7 +87,15 @@
 - 清理浏览器cookie等storage,再或者换个浏览器,Log out以后再Log in, 请先自行尝试确实后再反馈。
 3. 我用的浏览器本身就有一个微软账号了,这样可能会挤出我原有的微软账户,怎么办?
 建议浏览器多开，推荐Firefox,通过 右键 属性 目标 处,添加 -p 后即可 自由创建和选择环境互相分隔的浏览器。
-
+![image](https://user-images.githubusercontent.com/129353868/230779658-95de526e-519c-4b1c-8295-21dc8fd54c9d.png)
+4. 各种错误
+![image](https://user-images.githubusercontent.com/129353868/230779836-5706d847-abfd-468e-b013-428a96a7ff21.png)
+翻译成中文就是你所在地区不支持,选个能用的节点，不要选择大陆、香港、俄罗斯、伊朗等国家。
+![image](https://user-images.githubusercontent.com/129353868/230779943-47ec5c10-5e42-4a1a-9fa5-df376a71446d.png)
+原因基本同上
+![image](https://user-images.githubusercontent.com/129353868/230780567-07651cc0-8fe6-4820-a079-4ae7d089b5d6.png)
+你所在的梯子向OpenAI发送的请求太多了，就算你的账号没用，也不妨碍OpenAI觉得你梯子节点Ip用的太多了。
+![image](https://user-images.githubusercontent.com/129353868/230780386-0a9d58ef-f2a8-4ce7-bab3-3f61c6d8dcde.png)
 
 
 
